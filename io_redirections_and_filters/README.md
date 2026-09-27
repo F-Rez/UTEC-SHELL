@@ -1,13 +1,1 @@
-# io_redirections_and_filters
-- O
-- `1-confused_smiley`: muestra "(Ôo)'
-helofile
-twofiles
-lastlines
-5-first
-iacta
-\\
-8-
-9
-10-
-11
+12
