@@ -2,3 +2,4 @@
 T01
 T02
 3path
+4global
